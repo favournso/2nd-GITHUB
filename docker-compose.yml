@@ -10,3 +10,6 @@ services:
       - '80:80'
     depends_on:
       - app
+
+
+this changes was made as a result of favour class work.
